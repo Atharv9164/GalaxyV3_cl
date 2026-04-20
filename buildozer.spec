@@ -9,7 +9,7 @@ source.include_patterns = audio/*.wav,fonts/*.ttf,images/*.jpg,*.kv
 
 version = 3.0
 
-requirements = python3,kivy==2.3.0,Cython==3.0.11
+requirements = python3,kivy==2.3.0,Cython==0.29.33
 
 orientation = landscape
 fullscreen = 1
